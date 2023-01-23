@@ -62,6 +62,8 @@
                             </adviceFile>
                             <bundles>
                                 <bundleDef>org.wso2.carbon.identity.association.account:org.wso2.carbon.identity.user.account.association</bundleDef>
+                                <bundleDef>org.wso2.orbit.jsr105:jsr105</bundleDef>
+                                <bundleDef>org.apache.santuario:xmlsec</bundleDef>
                             </bundles>
                             <importFeatures>
                                 <importFeatureDef>org.wso2.carbon.core:compatible:${carbon.kernel.feature.version}</importFeatureDef>
