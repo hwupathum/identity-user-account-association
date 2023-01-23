@@ -291,7 +291,7 @@
 
         <xmlsec.version>2.3.0</xmlsec.version>
         <jsr105.version>1.0.1.wso2v1</jsr105.version>
-        <wss4j.xml.security.imp.pkg.version.range>[2.1.7,2.4.0)</wss4j.xml.security.imp.pkg.version.range>
+        <xmlsec.version.imp.pkg.version.range>[2.1.7,2.4.0)</xmlsec.version.imp.pkg.version.range>
 
         <imp.pkg.version.javax.servlet>[2.6.0, 3.0.0)</imp.pkg.version.javax.servlet>
         <axiom.wso2.version>1.2.11-wso2v16</axiom.wso2.version>
